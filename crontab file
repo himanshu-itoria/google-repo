@@ -1,0 +1,2 @@
+*/30 * * * * /bin/bash /Users/Inito/as1.sh
+#run the above line post "crontab -e" in editor "its scheduled for 30 mins"
